@@ -12,6 +12,9 @@ The Morpheus Accelerator aims to support in-person and virtual hackathons with M
 ## Builder Tooling
 The Morpheus Accelerator will improve discoverability and accessibility of developer tools that accelerate builders. 
 
+### BIP39 Wordlist ESM Import Fix
+A utility script that resolves ESM import errors between the `ox` package and `@scure/bip39` wordlists. [See documentation](./utils/fixes/README.md).
+
 ## Use Case Curation
 The Morpheus Accelerator will curate impactful use cases within the community to inspire builders. You can review and contribute to the [Morpheus Smart Agent Use Cases](https://docs.google.com/spreadsheets/d/18-6Hxe59Rc6vXTEkyFUgeRZsI0PjdJYk715bx6eSD14/edit?gid=0#gid=0) being curated by the community.
 
