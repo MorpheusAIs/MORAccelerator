@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "buildCommand": "yarn install && yarn build",
+  "installCommand": "yarn install",
+  "framework": "nextjs",
+  "env": {
+    "NEXT_PUBLIC_ENVIRONMENT": "production"
+  },
+  "github": {
+    "silent": true
+  }
+}
